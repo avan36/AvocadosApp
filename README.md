@@ -1,5 +1,4 @@
 # AvocadosApp
-Created following this course: https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/learn/quiz/5758466
 ## Views of the app
 ### Home screen
 ![Simulator Screenshot - iPhone 15 Pro - 2024-03-02 at 20 39 03 copy](https://github.com/avan36/AvocadosApp/assets/158532304/ae725d36-d89c-47fe-b706-f0ade8e74245)
